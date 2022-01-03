@@ -1,0 +1,38 @@
+03-Jan-22 23:16:37 -
+
+03-Jan-22 23:16:37 -====== WebDriver manager ======
+03-Jan-22 23:16:37 -Current google-chrome version is 96.0.4664
+03-Jan-22 23:16:37 -Get LATEST chromedriver version for 96.0.4664 google-chrome
+03-Jan-22 23:16:38 -Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+03-Jan-22 23:16:39 -*****Driver Initialised*****
+03-Jan-22 23:16:46 -*****Browser launched*****
+03-Jan-22 23:16:46 -*****Title matched*****
+03-Jan-22 23:16:47 -******Browser Closed*****
+03-Jan-22 23:16:50 -
+
+03-Jan-22 23:16:50 -====== WebDriver manager ======
+03-Jan-22 23:16:50 -Current google-chrome version is 96.0.4664
+03-Jan-22 23:16:50 -Get LATEST chromedriver version for 96.0.4664 google-chrome
+03-Jan-22 23:16:50 -Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+03-Jan-22 23:16:52 -*****Driver Initialised*****
+03-Jan-22 23:16:59 -*****Browser launched*****
+03-Jan-22 23:16:59 -*****Passing credential******
+03-Jan-22 23:17:03 -*****Entered credential*****
+03-Jan-22 23:17:06 -*****Login button clicked*******
+03-Jan-22 23:17:06 -*****Title matched*****
+03-Jan-22 23:17:12 -******Browser Closed*****
+64.45\chromedriver.exe] found in cache
+*****Driver Initialised*****
+*****Driver Initialised*****
+*****Browser launched*****
+*****Browser launched*****
+*****Passing credential******
+*****Passing credential******
+*****Entered credential*****
+*****Entered credential*****
+*****Login button clicked*******
+*****Login button clicked*******
+*****Title matched*****
+*****Title matched*****
+******Browser Closed*****
+******Browser Closed*****
